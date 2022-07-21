@@ -7,7 +7,7 @@
 * backgroundurl: https://raw.githubusercontent.com/clkantner/balloon-banner/master/skillmap1-4.gif
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #ffffff
+* tertiarycolor: #96ecfd
 * completednodecolor: #a4839e
 * highlightcolor: #ff0000
 * allowcodecarryover: true
