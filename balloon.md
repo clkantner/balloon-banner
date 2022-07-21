@@ -63,7 +63,7 @@
 * url: /static/skillmap/certificates/balloon-cert.pdf
 * imageUrl: /static/skillmap/certificates/balloon-cert.png
 * next: balloon4
-* position: 3 1
+* position: 2 2
 * actions:
     * map: [Finish the Last Level!](/skillmap/balloon)
     * editor: [Edit Your Project with a Full Toolbox](/)
