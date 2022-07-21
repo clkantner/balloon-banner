@@ -51,7 +51,7 @@
 * next: balloon-cert
 * url: /skillmap/balloon/balloon3
 * imageUrl: /static/skillmap/backgrounds/mouse-comp.png
-* position: 2 1
+* position: 1 2
 
 
 
