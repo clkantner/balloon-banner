@@ -5,7 +5,7 @@
 * infoUrl: skillmap/educator-info/balloon-map-info
 * bannerUrl: /static/skillmap/balloon/balloon3.gif
 * backgroundurl: https://raw.githubusercontent.com/clkantner/balloon-banner/d9f00dc3f5ad22cfb796f756521d114db45328e6/skillmap1-4.gif
-* primarycolor: #ffffff
+* primarycolor: #96ecfd
 * secondarycolor: #fff53d
 * tertiarycolor: #ffffff
 * completednodecolor: #a4839e
