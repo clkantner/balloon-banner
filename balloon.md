@@ -4,7 +4,7 @@
 * description: Create a simple carnival game where you click quickly to try to burst a balloon before time runs out.
 * infoUrl: skillmap/educator-info/balloon-map-info
 * bannerUrl: /static/skillmap/balloon/balloon3.gif
-* backgroundurl: https://raw.githubusercontent.com/clkantner/balloon-banner/master/skillmap1-8.gif
+* backgroundurl: https://raw.githubusercontent.com/clkantner/balloon-banner/master/skillmap1-gg.gif
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
 * tertiarycolor: #96ecfd
